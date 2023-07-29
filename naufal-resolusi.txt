@@ -2,3 +2,4 @@ Naufal RESOLUSI
 - Konsisten belajar front end development
 - Kurangin scrolling lama-lama
 - Bisa REACT di akhir tahun
+- Dapetin IPS semester 5 tinggi
